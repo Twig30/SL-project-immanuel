@@ -1,0 +1,38 @@
+h1{background-color
+	
+}
+
+p {
+  padding: 10px;
+	color: white;
+	background-color:green;
+	width: fit-content;
+	border-style: solid;
+  border-radius: 25px;
+}
+#begining{
+ 
+  background-color:green;
+
+}
+html{
+  background-color:light-yellow;
+}
+
+li{
+  	background-color:green;
+	width: fit-content;
+	border-style: solid;
+  border-radius: 25px;
+  border-color:green;
+  color :white;
+}
+
+strong{
+  color:black;
+}
+
+.body{
+background-color:light-yellow;
+}
+}
