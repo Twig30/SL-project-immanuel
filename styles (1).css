@@ -1,0 +1,40 @@
+html{background-color:#fcf3cf;
+	
+}
+img{
+border:solid;
+border-radius: 25px;
+border-color:green;
+}
+
+.section {
+padding: 10px;
+color: white;
+background-color:green;
+width: fit-content;
+border-style: solid;
+border-radius:27px;
+margin:25px;
+}
+#begining{
+background-color:green;
+}
+html{
+background-color:light-yellow;
+}
+
+strong{
+color:black;
+}
+
+.body{
+background-color:light-yellow;
+}
+
+img{ 
+text-align:left;
+}
+
+#landing{
+  
+}
